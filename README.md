@@ -129,23 +129,33 @@ Production AI
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=vishnurj06&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
-       alt="Vishnu's GitHub Stats" />
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnurj06&layout=compact&langs_count=8&hide_border=true"
-       alt="Vishnu's Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=vishnurj06&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnurj06&layout=compact&langs_count=8&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnurj06&hide_border=true&area=true&custom_title=Vishnu's%20Contribution%20Activity"
-       alt="Vishnu's Contribution Activity Graph" />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vishnurj06&theme=github"
+  alt="Vishnu's GitHub Activity Graph"
+/>
+
 </p>
 
 ---
@@ -209,8 +219,12 @@ Production AI
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishnurj06&theme=flat&no-frame=true&no-bg=true&margin-w=10"
-       alt="Vishnu's GitHub Trophies" />
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=vishnurj06&theme=flat&no-frame=true&no-bg=true&margin-w=10"
+  alt="Vishnu's GitHub Trophies"
+/>
+
 </p>
 
 ---
