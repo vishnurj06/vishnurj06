@@ -1,35 +1,252 @@
 <h1 align="center">Hi 👋, I'm Vishnu Jadhav</h1>
-<h3 align="center">Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnurj06" alt="vishnurj06" /></a> </p>
+<h3 align="center">
+Computer Science Engineering Student • Full-Stack Developer • AI/ML Enthusiast
+</h3>
 
-- 🔭 I'm currently working on **HospitalOS & Autonomous AI Agent Architectures**
-
-- 🌱 I’m currently learning **Advanced AI/ML • Computer Vision • System Design • Scalable Full-Stack Development**
-
-- 👯 I'm looking to collaborate on **AI/ML, Computer Vision & Full-Stack Projects**
-
-- 🤝 I’m looking for help with **Production-grade AI/ML systems & scalable software architecture**
-
-- 💬 Ask me about **Next.js, TypeScript, Python, Agentic AI, PostgreSQL & GSAP**
-
-- 📫 How to reach me **vishnu01110110@gmail.com**
-
-- ⚡ Fun fact **I run local LLMs on my laptop just to see the fans hit terminal velocity.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishnu_jadhav_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnu_jadhav_6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishnu-jadhav-b37a40383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-jadhav-b37a40383" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vishnu_jadhav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishnu_jadhav" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishnu01110110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishnu01110110" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/VishnuJadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vishnujadhav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/VishnuJadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnujadhav" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/vishnurj06">
+    <img src="https://komarev.com/ghpvc/?username=vishnurj06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/vishnurj06">
+    <img src="https://img.shields.io/github/followers/vishnurj06?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/vishnurj06">
+    <img src="https://img.shields.io/github/stars/vishnurj06?label=Stars&style=flat" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnurj06&show_icons=true&locale=en" alt="vishnurj06" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnurj06&" alt="vishnurj06" /></p>
+I'm a Computer Science Engineering student who enjoys building software at the intersection of **Full-Stack Development, AI/ML, Computer Vision and Agentic AI**.
+
+I'm particularly interested in turning complex ideas into practical, scalable systems — from AI-powered healthcare platforms to computer vision pipelines and autonomous AI agents.
+
+- 🔭 I'm currently working on **HospitalOS & Autonomous AI Agent Architectures**
+- 🌱 I'm currently learning **Advanced AI/ML, Computer Vision, System Design & Scalable Full-Stack Development**
+- 👯 I'm looking to collaborate on **AI/ML, Computer Vision & Full-Stack Projects**
+- 🤝 I'm looking for help with **Production-grade AI/ML systems & scalable software architecture**
+- 💬 Ask me about **Next.js, TypeScript, Python, Agentic AI, PostgreSQL & GSAP**
+- 🧠 I'm interested in **AI Agents, Local LLMs, Computer Vision & Intelligent Automation**
+- ⚡ Fun fact: **I run local LLMs on my laptop just to see the fans hit terminal velocity.**
+
+---
+
+## 🧠 Current Focus
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🤖 Agentic AI
+
+Autonomous Agents  
+Tool Use  
+Planning  
+Memory  
+LLMs
+
+</td>
+
+<td align="center" width="33%">
+
+### 👁️ Computer Vision
+
+Object Detection  
+Tracking  
+OCR  
+Re-ID  
+Video Analytics
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏗️ Software Engineering
+
+System Design  
+Scalable APIs  
+Distributed Systems  
+Production AI
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,php" />
+</p>
+
+### ⚛️ Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,gsap" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,nginx" />
+</p>
+
+### 🤖 AI / ML / Computer Vision
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+<p>
+  <code>Machine Learning</code>
+  <code>Computer Vision</code>
+  <code>Object Detection</code>
+  <code>OCR</code>
+  <code>Object Tracking</code>
+  <code>AI Agents</code>
+  <code>LLMs</code>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" />
+</p>
+
+### ☁️ DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=vishnurj06&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+       alt="Vishnu's GitHub Stats" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnurj06&layout=compact&langs_count=8&hide_border=true"
+       alt="Vishnu's Top Languages" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnurj06&hide_border=true&area=true&custom_title=Vishnu's%20Contribution%20Activity"
+       alt="Vishnu's Contribution Activity Graph" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishnurj06&hide_border=true"
+       alt="Vishnu's GitHub Streak" />
+</p>
+
+---
+
+# 📅 Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnurj06&theme=default"
+       alt="Vishnu's GitHub Contribution Summary" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishnurj06/vishnurj06/output/github-contribution-grid-snake.svg"
+       alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+# 📊 GitHub Profile Metrics
+
+<p align="center">
+
+  <img src="https://img.shields.io/github/repos/vishnurj06?label=Public%20Repositories&style=for-the-badge"
+       alt="Public Repositories"/>
+
+  <img src="https://img.shields.io/github/followers/vishnurj06?label=Followers&style=for-the-badge"
+       alt="Followers"/>
+
+  <img src="https://img.shields.io/github/stars/vishnurj06?label=Stars&style=for-the-badge"
+       alt="Stars"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishnurj06&theme=flat&no-frame=true&no-bg=true&margin-w=10"
+       alt="Vishnu's GitHub Trophies" />
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/vishnujadhav">
+  <img src="https://img.shields.io/badge/LeetCode-vishnujadhav-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://codeforces.com/profile/vishnujadhav">
+  <img src="https://img.shields.io/badge/Codeforces-vishnujadhav-blue?style=for-the-badge&logo=codeforces" />
+</a>
+
+<a href="https://www.codechef.com/users/vishnu_jadhav">
+  <img src="https://img.shields.io/badge/CodeChef-vishnu__jadhav-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+<a href="https://www.hackerrank.com/vishnu01110110">
+  <img src="https://img.shields.io/badge/HackerRank-vishnu01110110-green?style=for-the-badge&logo=hackerrank" />
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/vishnu-jadhav-b37a40383">
+  <img src="https://img.shields.io/badge/LinkedIn-Vishnu%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://twitter.com/vishnu_jadhav_6">
+  <img src="https://img.shields.io/badge/X-@vishnu__jadhav__6-black?style=for-the-badge&logo=x" />
+</a>
+
+<a href="mailto:vishnu01110110@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building things. Breaking things. Learning how to build them better.</i>
+</p>
