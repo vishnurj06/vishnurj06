@@ -202,14 +202,17 @@ Production AI
 
 <p align="center">
 
-  <img src="https://img.shields.io/github/repos/vishnurj06?label=Public%20Repositories&style=for-the-badge"
-       alt="Public Repositories"/>
+  <a href="https://github.com/vishnurj06">
+    <img src="https://badges.pufler.dev/repos/vishnurj06" alt="Public Repositories" />
+  </a>
 
-  <img src="https://img.shields.io/github/followers/vishnurj06?label=Followers&style=for-the-badge"
-       alt="Followers"/>
+  <a href="https://github.com/vishnurj06">
+    <img src="https://img.shields.io/github/followers/vishnurj06?label=Followers&style=for-the-badge" alt="Followers" />
+  </a>
 
-  <img src="https://img.shields.io/github/stars/vishnurj06?label=Stars&style=for-the-badge"
-       alt="Stars"/>
+  <a href="https://github.com/vishnurj06">
+    <img src="https://img.shields.io/github/stars/vishnurj06?affiliations=OWNER&label=Stars&style=for-the-badge" alt="Stars" />
+  </a>
 
 </p>
 
