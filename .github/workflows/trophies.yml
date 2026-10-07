@@ -16,13 +16,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Profile Trophy
-        uses: ryo-ma/github-profile-trophy@master
+      - name: Generate GitHub Trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: vishnurj06
-          output_path: trophy.svg
+          options: 'username=vishnurj06&theme=flat&column=6&row=3&no-frame=true'
+          path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: flat
 
       - name: Commit trophy
         run: |
