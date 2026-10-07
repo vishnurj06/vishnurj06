@@ -219,12 +219,10 @@ Production AI
 # 🏆 GitHub Achievements
 
 <p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=vishnurj06&theme=flat&no-frame=true&no-bg=true&margin-w=10"
-  alt="Vishnu's GitHub Trophies"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/vishnurj06/vishnurj06/main/trophy.svg"
+    alt="Vishnu's GitHub Trophies"
+  />
 </p>
 
 ---
