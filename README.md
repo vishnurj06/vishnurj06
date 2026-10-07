@@ -150,12 +150,11 @@ Production AI
 # 📈 GitHub Activity
 
 <p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=vishnurj06&theme=github"
-  alt="Vishnu's GitHub Activity Graph"
-/>
-
+  <img
+    src="https://github-readme-activity-graph-seven-nu.vercel.app/graph?username=vishnurj06&theme=github-compact&hide_border=true&area=true"
+    alt="Vishnu Jadhav's GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
